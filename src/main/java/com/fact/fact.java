@@ -14,3 +14,5 @@ public class fact {
 //four
 //five
 //six
+//nine
+//ten
