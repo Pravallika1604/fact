@@ -8,3 +8,4 @@ public class fact {
         System.out.println(fac);
     }
 }
+//final
